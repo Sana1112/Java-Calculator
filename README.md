@@ -1,11 +1,12 @@
-# SimpleCalculatorJava
+# Simple Calculator Java
 
 A modern desktop calculator built in Java (Swing).  
 Supports basic and chained arithmetic, decimals, reciprocal, and clear error handling.  
 Great for demos, interviews, or as an educational project.
 
 ## Demo Screenshot
-*(Add a screenshot image here, e.g. calculator.png)*
+<img width="607" height="642" alt="image" src="https://github.com/user-attachments/assets/1ce322d5-ba60-47da-8fa6-07853ae9be72" />
+
 
 ## Features
 
