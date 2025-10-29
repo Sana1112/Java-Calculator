@@ -2,7 +2,7 @@
 
 A modern desktop calculator built in Java (Swing).  
 Supports basic and chained arithmetic, decimals, reciprocal, and clear error handling.  
-Great for demos, interviews, or as an educational project.
+
 
 ## Demo Screenshot
 <img width="408" height="437" alt="image" src="https://github.com/user-attachments/assets/52055aa5-48b2-4ec2-9733-8e3a74f6ea76" />
