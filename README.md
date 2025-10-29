@@ -5,7 +5,8 @@ Supports basic and chained arithmetic, decimals, reciprocal, and clear error han
 Great for demos, interviews, or as an educational project.
 
 ## Demo Screenshot
-<img width="607" height="642" alt="image" src="https://github.com/user-attachments/assets/1ce322d5-ba60-47da-8fa6-07853ae9be72" />
+<img width="408" height="437" alt="image" src="https://github.com/user-attachments/assets/52055aa5-48b2-4ec2-9733-8e3a74f6ea76" />
+
 
 
 ## Features
