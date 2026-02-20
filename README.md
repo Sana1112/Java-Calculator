@@ -21,7 +21,7 @@ Supports basic and chained arithmetic, decimals, reciprocal, and clear error han
 - Reciprocal button (`1/x`) for quick calculations
 - Clear/reset functionality
 
-## Technologies USed
+## Technologies Used
 
 - Java
 - Java Swing
@@ -31,9 +31,9 @@ Supports basic and chained arithmetic, decimals, reciprocal, and clear error han
 
 1. Download or clone this repo.
    git clone https://github.com/Sana1112/Java-Calculator.git
-2. Compile
+2. Compile:
    javac Calculator.java
-3. Run
+3. Run:
    java Calculator
 
 ## What I learnt 
